@@ -10,7 +10,8 @@ git clone https://github.com/your-username/your-repository.git
 # 2.Install Dependencies: 
 Make sure you have Python installed on your machine. Additionally, ensure you have the necessary packages installed by running:
 pip install Pillow
-# 3.Run the Game: Navigate to the directory where you cloned the repository and run the main file main.py using Python:
+# 3.Run the Game:
+Navigate to the directory where you cloned the repository and run the main file main.py using Python:
 python main.py
 # 4.Enjoy the Game:
 Guess the word before it's too late! Enter letters into the input field and click the arrow button to check your guess.
