@@ -6,7 +6,7 @@ To run the game, follow these steps:
 
 # 1.Clone the Repository:
 Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/your-repository.git
+git clone [https://github.com/your-username/your-repository.git](https://github.com/Afza-Khursheed123/CodeAlpha_task1.git)
 # 2.Install Dependencies: 
 Make sure you have Python installed on your machine. Additionally, ensure you have the necessary packages installed by running:
 pip install Pillow
