@@ -16,13 +16,13 @@ python main.py
 # 4.Enjoy the Game:
 Guess the word before it's too late! Enter letters into the input field and click the arrow button to check your guess.
 # Features
-# Interactive Interface:
+# 1.Interactive Interface:
 The game features an intuitive interface built using Tkinter, allowing players to easily interact with the game.
-# Word Selection:
+# 2.Word Selection:
 A random word is chosen from a predefined list each time the game starts, ensuring variety and challenge.
-# Feedback for Guesses:
+# 3.Feedback for Guesses:
 Players receive immediate feedback on their guesses, including whether the guess was correct or incorrect.
-# Win and Lose Conditions:
+# 4.Win and Lose Conditions:
 The game ends when the player either correctly guesses the word or runs out of attempts.
 
 # Contributions
